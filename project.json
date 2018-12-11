@@ -1,5 +1,5 @@
 {
-  "name": "JapaneseHoliday.Activities",
+  "name": "JapaneseHoliday",
   "description": "Use the data of the day of the week and the Cabinet Office to find out whether it is a public holiday or not",
   "main": "NewActivity.xaml",
   "dependencies": {
@@ -10,7 +10,7 @@
   },
   "schemaVersion": "3.2",
   "studioVersion": "18.3.3.0",
-  "projectVersion": "1.0.6919.17442",
+  "projectVersion": "1.0.6919.23959",
   "runtimeOptions": {
     "autoDispose": false,
     "excludedLoggedData": [
