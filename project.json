@@ -1,16 +1,16 @@
 {
   "name": "JapaneseHoliday.Activities",
-  "description": "Blank Library",
+  "description": "Use the data of the day of the week and the Cabinet Office to find out whether it is a public holiday or not",
   "main": "NewActivity.xaml",
   "dependencies": {
     "UiPath.UIAutomation.Activities": "18.3.6897.22543",
     "UiPath.System.Activities": "18.3.6897.22524",
-    "UiPath.Excel.Activities": "2.4.6884.25683",
-    "UiPath.WebAPI.Activities": "1.2.6863.33980"
+    "UiPath.WebAPI.Activities": "1.2.6863.33980",
+    "UiPath.Excel.Activities": "2.4.6884.25683"
   },
   "schemaVersion": "3.2",
   "studioVersion": "18.3.3.0",
-  "projectVersion": "1.0.6918.30728",
+  "projectVersion": "1.0.6919.17442",
   "runtimeOptions": {
     "autoDispose": false,
     "excludedLoggedData": [

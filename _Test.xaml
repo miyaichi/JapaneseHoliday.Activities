@@ -56,7 +56,6 @@
       <AssemblyReference>System.ServiceModel</AssemblyReference>
       <AssemblyReference>UiPath.Excel</AssemblyReference>
       <AssemblyReference>System.ValueTuple</AssemblyReference>
-      <AssemblyReference>System.Runtime.WindowsRuntime</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
   <Sequence DisplayName="_Test" sap2010:WorkflowViewState.IdRef="Sequence_3">
@@ -142,7 +141,7 @@
         </ui:ForEachRow.Body>
       </ui:ForEachRow>
     </Sequence>
-    <sads:DebugSymbol.Symbol>d1JDOlxVc2Vyc1xZb3NoaWhpa28gTWl5YWljaGlcRG9jdW1lbnRzXFVpUGF0aFxKYXBhbmVzZUhvbGlkYXkuQWN0aXZpdGllc1xfVGVzdC54YW1sLT4DkgEOAgEBQwVnEAIBImgFkAEQAgECRAdEeQIBOkUHZhQCASNsB2x9AgEgbQdtvgECARtuB48BFwIBA0ReRHYCATtFkQFFrAECATlLDWMYAgEkbF5segIBIW1jbW4CAR9tIW0uAgEdbXhtiwECARxuOG5FAgEZdA2MARgCAQRMD1MYAgE1VA9aJwIBLlsPYhQCASV1D3wYAgEVfQ+DAScCAQ6EAQ+LARQCAQVROlFkAgE4TjtOSAIBNlhOWFkCATNWTlZbAgExV09XUAIBMFTHAVTeAQIBL1sdWyoCASZdE12WAQIBK2ATYJoBAgEoejp6VgIBGHc7d0gCARaBAU6BAVkCARN/Tn9bAgERgAFPgAFQAgEQfccBfd4BAgEPhAEdhAEqAgEGhgEThgGWAQIBC4kBE4kBmgECAQhdal2TAQIBLGBqYJcBAgEphgFqhgGTAQIBDIkBaokBlwECAQk=</sads:DebugSymbol.Symbol>
+    <sads:DebugSymbol.Symbol>d1JDOlxVc2Vyc1xZb3NoaWhpa28gTWl5YWljaGlcRG9jdW1lbnRzXFVpUGF0aFxKYXBhbmVzZUhvbGlkYXkuQWN0aXZpdGllc1xfVGVzdC54YW1sLT0DkQEOAgEBQgVmEAIBImcFjwEQAgECQwdDeQIBOkQHZRQCASNrB2t9AgEgbAdsvgECARttB44BFwIBA0NeQ3YCATtEkQFErAECATlKDWIYAgEka15regIBIWxjbG4CAR9sIWwuAgEdbHhsiwECARxtOG1FAgEZcw2LARgCAQRLD1IYAgE1Uw9ZJwIBLloPYRQCASV0D3sYAgEVfA+CAScCAQ6DAQ+KARQCAQVQOlBkAgE4TTtNSAIBNldOV1kCATNVTlVbAgExVk9WUAIBMFPHAVPeAQIBL1odWioCASZcE1yWAQIBK18TX5oBAgEoeTp5VgIBGHY7dkgCARaAAU6AAVkCARN+Tn5bAgERf09/UAIBEHzHAXzeAQIBD4MBHYMBKgIBBoUBE4UBlgECAQuIAROIAZoBAgEIXGpckwECASxfal+XAQIBKYUBaoUBkwECAQyIAWqIAZcBAgEJ</sads:DebugSymbol.Symbol>
   </Sequence>
   <sap2010:WorkflowViewState.ViewStateManager>
     <sap2010:ViewStateManager>
@@ -197,7 +196,7 @@
           </scg:Dictionary>
         </sap:WorkflowViewStateService.ViewState>
       </sap2010:ViewStateData>
-      <sap2010:ViewStateData Id="_Test_1" sap:VirtualizedContainerService.HintSize="600,2205" />
+      <sap2010:ViewStateData Id="_Test_1" sap:VirtualizedContainerService.HintSize="600,2245" />
     </sap2010:ViewStateManager>
   </sap2010:WorkflowViewState.ViewStateManager>
 </Activity>
